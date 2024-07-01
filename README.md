@@ -46,11 +46,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Skills" align="left" width="60" height="80"/> 
 
-<br><br><br><br>
+<br><br><br>
+
+<img src="https://myreadme.vercel.app/api/embed/lunavamp?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ## 📰 Social links
  - [LinkedIn](https://www.linkedin.com/in/karina-kolesnichenko/)
  - [Instagram](https://www.instagram.com/catsnknives)
  - [Telegram](https://t.me/ui_unicorn)
-
-<img src="https://myreadme.vercel.app/api/embed/lunavamp?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
