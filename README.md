@@ -10,13 +10,16 @@
 - 💌 You can write to me at karina.kolesnichenko@outlook.com
 - 🌈 My dream is to make the world better
 
+<br><br><br>
+
+
 ## 💻 Work Experience
 | Company | Years | Position | Stack |
 | :------------ | :----------- | :----------- | :----------- |
 | Freelance | 2022 - Present | Frontend Developer | Development of responsive and cross-browser compatible websites using modern tools and technologies (HTML, CSS, Sass, JS, flexbox & grid, animations). Complete process of website development including design, graphic editor work, content writing, etc. |
 | PEF Autotrade, Ukraine | 2023 | Frontend Developer | Created multiple responsive websites for mobile and desktop devices using HTML and CSS, as well as third-party libraries such as React and Next. Debugged and troubleshot websites, identifying and resolving any issues efficiently. |
 
-
+<br><br><br>
 
 ## 🔨 Skills
  
