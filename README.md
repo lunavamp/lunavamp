@@ -52,3 +52,5 @@
  - [LinkedIn](https://www.linkedin.com/in/karina-kolesnichenko/)
  - [Instagram](https://www.instagram.com/catsnknives)
  - [Telegram](https://t.me/ui_unicorn)
+
+<img src="https://myreadme.vercel.app/api/embed/lunavamp?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
