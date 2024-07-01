@@ -1,7 +1,6 @@
 
-<p align="center"># 🏠 Hello👋, my name is Karina Kolesnichenko</p>
-### I have been working with frontend since 2021, and I love cats 😸
-
+<p># 🏠 Hello👋,</p>
+### I have been working with frontend since 2021,
 
 
 ## 💡 About Me
