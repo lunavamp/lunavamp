@@ -49,6 +49,8 @@
 
 <img src="https://myreadme.vercel.app/api/embed/lunavamp?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
+<br><br><br>
+
 ## 📰 Social links
  - [LinkedIn](https://www.linkedin.com/in/karina-kolesnichenko/)
  - [Instagram](https://www.instagram.com/catsnknives)
