@@ -13,14 +13,6 @@
 <br><br>
 
 
-## 💻 Work Experience
-| Company | Years | Position | Stack |
-| :------------ | :----------- | :----------- | :----------- |
-| Freelance | 2022 - Present | Frontend Developer | Development of responsive and cross-browser compatible websites using modern tools and technologies (HTML, CSS, Sass, JS, flexbox & grid, animations). Complete process of website development including design, graphic editor work, content writing, etc. |
-| PEF Autotrade, Ukraine | 2023 | Frontend Developer | Created multiple responsive websites for mobile and desktop devices using HTML and CSS, as well as third-party libraries such as React and Next. Debugged and troubleshot websites, identifying and resolving any issues efficiently. |
-
-<br><br>
-
 ## 🔨 Skills
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Skills" align="left" width="60" height="80"/>  
