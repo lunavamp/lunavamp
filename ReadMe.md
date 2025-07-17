@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 I’m currently working on a Next.js-based web platform for service booking with role-based access (React + Zustand + React Query).  <br>🤝 I’m looking to collaborate on open-source frontend tools or projects focused on improving UX.  <br>🧠 I’m looking for help with CI/CD setup and deeper TypeScript patterns in large-scale apps.  <br>🌱 I’m currently learning GraphQL and testing strategies for modern frontend apps. <br>💬 Ask me about state management in React, component architecture, and mentoring junior developers.  <br>⚡ Fun fact: I rename files five times before I find "the one".
+🎯 I’m currently working on a React-based SaaS platform for service booking with role-based access (React + Zustand + React Query).  <br>🤝 I’m looking to collaborate on open-source frontend tools or projects focused on improving UX.  <br>🧠 I’m looking for help with CI/CD setup and deeper TypeScript patterns in large-scale apps.  <br>🌱 I’m currently learning GraphQL and testing strategies for modern frontend apps. <br>💬 Ask me about state management in React, component architecture, and mentoring junior developers.  <br>⚡ Fun fact: I rename files five times before I find "the one".
 
 
 ## 🌐 Socials:
