@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 I’m React and Next.js Front-End Developer.  <br>🤝 I’m looking to collaborate on open-source frontend tools or projects focused on improving UX.  <br>🧠 I’m looking for help with CI/CD setup and deeper TypeScript patterns in large-scale apps.  <br>🌱 I’m currently learning GraphQL and testing strategies for modern frontend apps. <br>💬 Ask me about state management in React, component architecture, and mentoring junior developers.  <br>
+🎯 I’m React and Next.js Front-End Developer.  <br>🤝 I’m looking to collaborate on open-source frontend tools or projects focused on improving UX.  <br>🧠 I’m looking for help with CI/CD setup and deeper TypeScript patterns in large-scale apps.  <br>🌱 I’m currently learning GraphQL and testing strategies for modern frontend apps. 
 
 
 ## 🌐 Socials:
